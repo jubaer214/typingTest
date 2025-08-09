@@ -1,3 +1,6 @@
+Live preview: https://jubaer214.github.io/typingTest/
+
+
 Typing Test: A Modern Typing Test Application
 Typing Test is a clean, feature-rich typing test application built to help users improve their typing speed and accuracy. It offers a simple, intuitive interface for testing your skills and tracking your performance in real-time.
 
