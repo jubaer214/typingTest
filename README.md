@@ -1,5 +1,5 @@
-Typing.js: A Modern Typing Test Application
-Typing.js is a clean, feature-rich typing test application built to help users improve their typing speed and accuracy. It offers a simple, intuitive interface for testing your skills and tracking your performance in real-time.
+Typing Test: A Modern Typing Test Application
+Typing Test is a clean, feature-rich typing test application built to help users improve their typing speed and accuracy. It offers a simple, intuitive interface for testing your skills and tracking your performance in real-time.
 
 Features
 Customizable Timed Tests: Choose between 30, 60, and 120-second tests to suit your practice needs.
